@@ -1,4 +1,5 @@
 📂 Trader Behavior vs Market Sentiment Analysis
+
 🔹 Overview
 
 This project analyzes the relationship between trader behavior (profitability, trade volume, direction) and market sentiment (Fear vs Greed).
@@ -97,4 +98,5 @@ pypandoc (for report generation)
 🔹 Author
 
 👤 Yash Sunilbhai Patel
+
 📧 yashpatelndb@gmail.com
