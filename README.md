@@ -14,18 +14,31 @@ The objective is to uncover how trading decisions align (or diverge) from overal
 
 ds_<your_name>/
 ├── notebook_1.ipynb       # Main Colab notebook with code & analysis
+
 ├── notebook_2.ipynb       # (Optional) Additional experiments
+
 ├── csv_files/             # Input & processed CSVs
+
 │   ├── trader_data.csv
+
 │   ├── sentiment_data.csv
+
 │   ├── cleaned_trader_data.csv
+
 │   └── cleaned_sentiment_data.csv
+
 ├── outputs/               # Charts, plots, and visualizations
+
 │   ├── trade_side_distribution.png
+
 │   ├── pnl_by_sentiment.png
+
 │   ├── volume_vs_sentiment.png
+
 │   └── buy_sell_sentiment.png
+
 ├── ds_report.pdf          # Final summarized report
+
 └── README.md              # Setup & usage instructions
 
 🔹 Setup Instructions
